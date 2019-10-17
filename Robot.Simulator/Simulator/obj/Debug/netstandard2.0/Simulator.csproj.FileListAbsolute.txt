@@ -1,0 +1,8 @@
+C:\Users\mahipalt\source\repos\ConsoleApp1\Simulator\bin\Debug\netstandard2.0\Simulator.deps.json
+C:\Users\mahipalt\source\repos\ConsoleApp1\Simulator\bin\Debug\netstandard2.0\Simulator.dll
+C:\Users\mahipalt\source\repos\ConsoleApp1\Simulator\obj\Debug\netstandard2.0\Simulator.csprojAssemblyReference.cache
+C:\Users\mahipalt\source\repos\ConsoleApp1\Simulator\obj\Debug\netstandard2.0\Simulator.AssemblyInfoInputs.cache
+C:\Users\mahipalt\source\repos\ConsoleApp1\Simulator\obj\Debug\netstandard2.0\Simulator.AssemblyInfo.cs
+C:\Users\mahipalt\source\repos\ConsoleApp1\Simulator\bin\Debug\netstandard2.0\Simulator.pdb
+C:\Users\mahipalt\source\repos\ConsoleApp1\Simulator\obj\Debug\netstandard2.0\Simulator.dll
+C:\Users\mahipalt\source\repos\ConsoleApp1\Simulator\obj\Debug\netstandard2.0\Simulator.pdb
