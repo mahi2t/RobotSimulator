@@ -1,7 +1,7 @@
 # Robot Simulator
 ---
-Simulation of robot movements on a 5X5 board based on input commands and gets its location.
-###Description
+Simulation of robot movements on a 5X5 board based on input commands and gets its location.<br>
+## Description
 Following are the commands which the application accepts.
 <br>
 
