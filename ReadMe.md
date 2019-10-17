@@ -12,7 +12,16 @@ Following are the commands which the application accepts.
 		REPORT
 
 ###Technical Details
+- VS2019
+- .NetCore Console App
+- .NetCore class library
 
-To run the application, first restore the nuget packages and get build the application.
+Nuget Packages required
+- Microsoft dependency injection
+- Moq (for tests)
+
+Open the solution file in Visual Studio 2019, then restore the nuget packages and build the application.
+Simply run the app.
+
 
 		
